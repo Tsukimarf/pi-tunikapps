@@ -145,7 +145,7 @@ Once the dependencies are installed, you can navigate to the `docs/` folder and
 run:
 
 ```bash
-make html
+make -C guides html
 ```
 
 This will generate the documentation in the `docs/_build/html` directory. These
