@@ -90,7 +90,7 @@ git commit -m "<message>"
 Whenever you run `git commit -m "<message>"`, the code is automatically
 formatted, and lint error messages are displayed.
 
-If there's any error, the commit will not go through. Most of the times, the
+If there's any error, the commit will not go through. Most of the time, the
 errors are fixed automatically.
 
 Note: Pylint errors are not binding, i.e., your commit will not fail if you have
