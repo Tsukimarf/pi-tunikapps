@@ -134,7 +134,7 @@ The BodyFail database covers **all body-type failure signals** including but not
 **Installation:** Install Pi-Nexsus and run your first training job:
 
 ```bash
-pip install pi-nexsus
+pip install google-tunix
 ```
 
 For TPU users integrating `vllm` and `tpu-inference`, two setup paths are supported:
